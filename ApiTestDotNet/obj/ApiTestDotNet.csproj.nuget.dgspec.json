@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Documentos\\Info Diego\\repos_personales\\ApiTestDotNet\\ApiTestDotNet\\ApiTestDotNet.csproj": {}
+  },
+  "projects": {
+    "E:\\Documentos\\Info Diego\\repos_personales\\ApiTestDotNet\\ApiTestDotNet\\ApiTestDotNet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Documentos\\Info Diego\\repos_personales\\ApiTestDotNet\\ApiTestDotNet\\ApiTestDotNet.csproj",
+        "projectName": "ApiTestDotNet",
+        "projectPath": "E:\\Documentos\\Info Diego\\repos_personales\\ApiTestDotNet\\ApiTestDotNet\\ApiTestDotNet.csproj",
+        "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
+        "outputPath": "E:\\Documentos\\Info Diego\\repos_personales\\ApiTestDotNet\\ApiTestDotNet\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.6.0, )"
+            },
+            "Flurl": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "Flurl.Http": {
+              "target": "Package",
+              "version": "[3.2.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
