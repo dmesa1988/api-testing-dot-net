@@ -1,3 +1,6 @@
+E:\Documentos\Info Diego\repos_personales\ApiTestDotNet\ApiTestDotNet\bin\Debug\net6.0\testhost.dll
+E:\Documentos\Info Diego\repos_personales\ApiTestDotNet\ApiTestDotNet\bin\Debug\net6.0\testhost.exe
+E:\Documentos\Info Diego\repos_personales\ApiTestDotNet\ApiTestDotNet\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 E:\Documentos\Info Diego\repos_personales\ApiTestDotNet\ApiTestDotNet\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 E:\Documentos\Info Diego\repos_personales\ApiTestDotNet\ApiTestDotNet\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
 E:\Documentos\Info Diego\repos_personales\ApiTestDotNet\ApiTestDotNet\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
@@ -9,16 +12,17 @@ E:\Documentos\Info Diego\repos_personales\ApiTestDotNet\ApiTestDotNet\bin\Debug\
 E:\Documentos\Info Diego\repos_personales\ApiTestDotNet\ApiTestDotNet\bin\Debug\net6.0\FluentAssertions.dll
 E:\Documentos\Info Diego\repos_personales\ApiTestDotNet\ApiTestDotNet\bin\Debug\net6.0\Flurl.dll
 E:\Documentos\Info Diego\repos_personales\ApiTestDotNet\ApiTestDotNet\bin\Debug\net6.0\Flurl.Http.dll
+E:\Documentos\Info Diego\repos_personales\ApiTestDotNet\ApiTestDotNet\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 E:\Documentos\Info Diego\repos_personales\ApiTestDotNet\ApiTestDotNet\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
 E:\Documentos\Info Diego\repos_personales\ApiTestDotNet\ApiTestDotNet\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
 E:\Documentos\Info Diego\repos_personales\ApiTestDotNet\ApiTestDotNet\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
 E:\Documentos\Info Diego\repos_personales\ApiTestDotNet\ApiTestDotNet\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\Documentos\Info Diego\repos_personales\ApiTestDotNet\ApiTestDotNet\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
 E:\Documentos\Info Diego\repos_personales\ApiTestDotNet\ApiTestDotNet\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
-E:\Documentos\Info Diego\repos_personales\ApiTestDotNet\ApiTestDotNet\bin\Debug\net6.0\testhost.dll
 E:\Documentos\Info Diego\repos_personales\ApiTestDotNet\ApiTestDotNet\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Documentos\Info Diego\repos_personales\ApiTestDotNet\ApiTestDotNet\bin\Debug\net6.0\NuGet.Frameworks.dll
 E:\Documentos\Info Diego\repos_personales\ApiTestDotNet\ApiTestDotNet\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
 E:\Documentos\Info Diego\repos_personales\ApiTestDotNet\ApiTestDotNet\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-E:\Documentos\Info Diego\repos_personales\ApiTestDotNet\ApiTestDotNet\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
 E:\Documentos\Info Diego\repos_personales\ApiTestDotNet\ApiTestDotNet\bin\Debug\net6.0\xunit.abstractions.dll
 E:\Documentos\Info Diego\repos_personales\ApiTestDotNet\ApiTestDotNet\bin\Debug\net6.0\xunit.assert.dll
 E:\Documentos\Info Diego\repos_personales\ApiTestDotNet\ApiTestDotNet\bin\Debug\net6.0\xunit.core.dll
